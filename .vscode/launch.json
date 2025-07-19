@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MicroInternApplication<microintern>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.microintern.microintern.MicroInternApplication",
+            "projectName": "microintern",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
